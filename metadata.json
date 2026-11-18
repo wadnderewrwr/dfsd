@@ -1,0 +1,6 @@
+{
+  "name": "Extrator CNPJ",
+  "description": "Extrator de dados empresariais com pesquisa avançada, consulta em lote por CNPJ e exportação formatada para planilhas Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
